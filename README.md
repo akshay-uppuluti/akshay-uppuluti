@@ -1,103 +1,34 @@
-<div align="center">
+# Hi there, I'm Akshay Uppuluti! 👋
 
-# Akshay Uppuluti
-### Senior Test Automation Engineer | QA Architecture Specialist
+## About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/uppulutiakshay">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:uppuluti.akshay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/akshay-uppuluti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I am a passionate **Test Automation Engineer**  with a strong background in C#. I have extensive experience in developing and maintaining automated test frameworks, writing test scripts, and ensuring the quality of software products through rigorous testing.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=akshay-uppuluti&label=Profile%20Views&color=0A66C2&style=flat" />
-</p>
+- 🔭 I’m currently working on enhancing my automation skills and contributing to open-source projects.
+- 🌱 I’m currently learning advanced C# techniques and exploring new testing tools.
+- 💬 Ask me about automation testing, C#, Selenium, and software quality assurance.
+- 📫 How to reach me: [Email](mailto:uppuluti.akshay@gmail.com) | [LinkedIn](https://www.linkedin.com/in/uppulutiakshay)
 
-</div>
+## Skills
 
----
+- **Languages**: C#, Java
+- **Testing Tools**: Selenium, MSTest, XUnit, SpecFlow, Cucumber
+- **CI/CD**: Azure DevOps, GitHub Actions
+- **Version Control**: Git, GitHub, Azure DevOps
+- **Other Tools**: Postman, Swagger, GenRocket
 
-## Professional Summary
+## Projects
 
-Senior Test Automation Engineer with 7+ years of experience designing and scaling automation solutions across UI, API, Desktop, and Mobile platforms.
+### 1. Automated Test Framework for Web Applications
+- **Description**: Developed a robust test automation framework using Selenium and C# to automate the testing of web applications.
+- **Technologies**: C#, Selenium, MSTest, Azure DevOps
+- **Repository**: [GitHub Repo]((https://github.com/uppuluti-akshay/CSharpFramework))
 
-I build maintainable frameworks, integrate quality into CI/CD, and improve release confidence through robust engineering and BDD-driven practices.
 
----
+## Contact Me
 
-## Core Competencies
-
-<p>
-  <img src="https://img.shields.io/badge/Automation%20Architecture-0f172a?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%20Automation-0f172a?style=flat-square&logo=selenium&logoColor=43B02A" />
-  <img src="https://img.shields.io/badge/API%20Automation-0f172a?style=flat-square&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/BDD%20Frameworks-0f172a?style=flat-square&logo=cucumber&logoColor=23D96C" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20Quality-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Testing-0f172a?style=flat-square&logo=openai&logoColor=white" />
-</p>
+Feel free to reach out to me via [Email](mailto:uppuluti.akshay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/uppulutiakshay).
 
 ---
 
-## Technology Stack
-
-| Area | Technologies |
-|---|---|
-| Languages | C#, Java, Python, SQL |
-| UI Automation | Selenium, Appium, WinAppDriver |
-| API Automation | RestSharp, Postman, REST APIs |
-| BDD | Reqnroll, SpecFlow, Cucumber |
-| Test Frameworks | NUnit, MSTest, xUnit |
-| DevOps and Tools | Azure DevOps, GitHub Actions, TestRail, Jira, Git |
-
----
-
-## Selected Impact
-
-| Metric | Value |
-|---|---|
-| Experience | 7+ Years |
-| Automation Initiatives | 25+ Delivered |
-| Automated Test Scenarios | 10,000+ |
-| Focus Areas | UI, API, Desktop, Mobile |
-
----
-
-## Featured Project
-
-### Enterprise Multi-Domain Test Automation Framework
-Scalable automation framework supporting UI, API, Desktop, and Mobile testing with BDD integration, parallel execution, and CI/CD orchestration.
-
-Repository: [CSharpFramework](https://github.com/akshay-uppuluti/CSharpFramework)
-
----
-
-## GitHub Insights
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akshay-uppuluti&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=1f2937&icon_color=0A66C2" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-uppuluti&layout=compact&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=1f2937" />
-</div>
-
----
-
-## Current Focus
-
-- Advanced LLM testing and response validation
-- Autonomous and self-healing automation
-- Performance and reliability engineering for test pipelines
-- Cloud-native test execution strategies
-
----
-
-## Contact
-
-Open to senior QA automation, test architecture, and quality engineering leadership opportunities.
-
-- LinkedIn: https://www.linkedin.com/in/uppulutiakshay  
-- Email: uppuluti.akshay@gmail.com
+⭐️ From [uppuluti-akshay](https://github.com/uppuluti-akshay)
