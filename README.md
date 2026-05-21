@@ -3,7 +3,21 @@
 # Akshay Uppuluti
 ### Senior Test Automation Engineer | QA Architecture Specialist
 
-[LinkedIn](https://www.linkedin.com/in/uppulutiakshay) • [GitHub](https://github.com/akshay-uppuluti) • [Email](mailto:uppuluti.akshay@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/uppulutiakshay">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:uppuluti.akshay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/akshay-uppuluti">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=akshay-uppuluti&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 </div>
 
@@ -11,40 +25,46 @@
 
 ## Professional Summary
 
-Senior Test Automation Engineer with 7+ years of experience designing and scaling enterprise test automation solutions across UI, API, Desktop, and Mobile platforms.
+Senior Test Automation Engineer with 7+ years of experience designing and scaling automation solutions across UI, API, Desktop, and Mobile platforms.
 
-I specialize in building maintainable automation frameworks, integrating quality into CI/CD pipelines, and driving reliable, business-aligned software delivery through BDD and engineering best practices.
+I build maintainable frameworks, integrate quality into CI/CD, and improve release confidence through robust engineering and BDD-driven practices.
 
 ---
 
-## Core Expertise
+## Core Competencies
 
-- Enterprise Test Automation Architecture
-- UI, API, Desktop, and Mobile Automation
-- BDD Framework Design and Implementation
-- CI/CD Quality Integration
-- AI/LLM Testing and Validation
-- QA Leadership and Governance
+<p>
+  <img src="https://img.shields.io/badge/Automation%20Architecture-0f172a?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Automation-0f172a?style=flat-square&logo=selenium&logoColor=43B02A" />
+  <img src="https://img.shields.io/badge/API%20Automation-0f172a?style=flat-square&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/BDD%20Frameworks-0f172a?style=flat-square&logo=cucumber&logoColor=23D96C" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Quality-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Testing-0f172a?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 ---
 
 ## Technology Stack
 
-- **Languages:** C#, Java, Python, SQL
-- **UI Automation:** Selenium, Appium, WinAppDriver
-- **API Automation:** RestSharp, Postman, REST APIs
-- **BDD:** Reqnroll, SpecFlow, Cucumber
-- **Test Frameworks:** NUnit, MSTest, xUnit
-- **DevOps & Tools:** Azure DevOps, GitHub Actions, TestRail, Jira, Git
+| Area | Technologies |
+|---|---|
+| Languages | C#, Java, Python, SQL |
+| UI Automation | Selenium, Appium, WinAppDriver |
+| API Automation | RestSharp, Postman, REST APIs |
+| BDD | Reqnroll, SpecFlow, Cucumber |
+| Test Frameworks | NUnit, MSTest, xUnit |
+| DevOps and Tools | Azure DevOps, GitHub Actions, TestRail, Jira, Git |
 
 ---
 
-## Key Achievements
+## Selected Impact
 
-- Built and scaled multiple enterprise-grade automation frameworks
-- Delivered 25+ automation initiatives across business-critical systems
-- Automated 10,000+ test scenarios across multi-domain platforms
-- Improved release confidence through stable, maintainable test architecture
+| Metric | Value |
+|---|---|
+| Experience | 7+ Years |
+| Automation Initiatives | 25+ Delivered |
+| Automated Test Scenarios | 10,000+ |
+| Focus Areas | UI, API, Desktop, Mobile |
 
 ---
 
@@ -53,22 +73,31 @@ I specialize in building maintainable automation frameworks, integrating quality
 ### Enterprise Multi-Domain Test Automation Framework
 Scalable automation framework supporting UI, API, Desktop, and Mobile testing with BDD integration, parallel execution, and CI/CD orchestration.
 
-- Repository: [CSharpFramework](https://github.com/akshay-uppuluti/CSharpFramework)
+Repository: [CSharpFramework](https://github.com/akshay-uppuluti/CSharpFramework)
+
+---
+
+## GitHub Insights
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akshay-uppuluti&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=1f2937&icon_color=0A66C2" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-uppuluti&layout=compact&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=1f2937" />
+</div>
 
 ---
 
 ## Current Focus
 
 - Advanced LLM testing and response validation
-- Autonomous and self-healing test automation
-- Performance and reliability engineering in test pipelines
-- Cloud-native test execution and orchestration
+- Autonomous and self-healing automation
+- Performance and reliability engineering for test pipelines
+- Cloud-native test execution strategies
 
 ---
 
-## Let’s Connect
+## Contact
 
-Open to opportunities in senior QA automation, test architecture, and quality engineering leadership.
+Open to senior QA automation, test architecture, and quality engineering leadership opportunities.
 
-- [Connect on LinkedIn](https://www.linkedin.com/in/uppulutiakshay)
-- [Email](mailto:uppuluti.akshay@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/uppulutiakshay  
+- Email: uppuluti.akshay@gmail.com
